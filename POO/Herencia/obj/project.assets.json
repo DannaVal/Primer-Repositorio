@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\USUARIO\\Documents\\SENA\\Daniel\\Git Hub\\Primer-Repositorio\\POO\\POO.csproj",
-      "projectName": "POO",
-      "projectPath": "D:\\Users\\USUARIO\\Documents\\SENA\\Daniel\\Git Hub\\Primer-Repositorio\\POO\\POO.csproj",
+      "projectUniqueName": "D:\\Users\\USUARIO\\Documents\\SENA\\Daniel\\Git Hub\\Primer-Repositorio\\POO\\Herencia\\Herencia.csproj",
+      "projectName": "Herencia",
+      "projectPath": "D:\\Users\\USUARIO\\Documents\\SENA\\Daniel\\Git Hub\\Primer-Repositorio\\POO\\Herencia\\Herencia.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\USUARIO\\Documents\\SENA\\Daniel\\Git Hub\\Primer-Repositorio\\POO\\obj\\",
+      "outputPath": "D:\\Users\\USUARIO\\Documents\\SENA\\Daniel\\Git Hub\\Primer-Repositorio\\POO\\Herencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"

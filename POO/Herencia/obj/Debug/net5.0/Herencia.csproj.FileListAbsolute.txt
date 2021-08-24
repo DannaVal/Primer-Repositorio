@@ -1,0 +1,16 @@
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\bin\Debug\net5.0\Herencia.exe
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\bin\Debug\net5.0\Herencia.deps.json
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\bin\Debug\net5.0\Herencia.runtimeconfig.json
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\bin\Debug\net5.0\Herencia.runtimeconfig.dev.json
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\bin\Debug\net5.0\Herencia.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\bin\Debug\net5.0\ref\Herencia.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\bin\Debug\net5.0\Herencia.pdb
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\obj\Debug\net5.0\Herencia.csproj.AssemblyReference.cache
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\obj\Debug\net5.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfoInputs.cache
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfo.cs
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\obj\Debug\net5.0\Herencia.csproj.CoreCompileInputs.cache
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\obj\Debug\net5.0\Herencia.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\obj\Debug\net5.0\ref\Herencia.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\obj\Debug\net5.0\Herencia.pdb
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\obj\Debug\net5.0\Herencia.genruntimeconfig.cache

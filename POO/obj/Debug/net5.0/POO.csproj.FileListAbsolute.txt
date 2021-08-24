@@ -1,0 +1,16 @@
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\bin\Debug\net5.0\POO.exe
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\bin\Debug\net5.0\POO.deps.json
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\bin\Debug\net5.0\POO.runtimeconfig.json
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\bin\Debug\net5.0\POO.runtimeconfig.dev.json
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\bin\Debug\net5.0\POO.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\bin\Debug\net5.0\ref\POO.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\bin\Debug\net5.0\POO.pdb
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\obj\Debug\net5.0\POO.csproj.AssemblyReference.cache
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\obj\Debug\net5.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\obj\Debug\net5.0\POO.AssemblyInfoInputs.cache
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\obj\Debug\net5.0\POO.AssemblyInfo.cs
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\obj\Debug\net5.0\POO.csproj.CoreCompileInputs.cache
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\obj\Debug\net5.0\POO.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\obj\Debug\net5.0\ref\POO.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\obj\Debug\net5.0\POO.pdb
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\obj\Debug\net5.0\POO.genruntimeconfig.cache
