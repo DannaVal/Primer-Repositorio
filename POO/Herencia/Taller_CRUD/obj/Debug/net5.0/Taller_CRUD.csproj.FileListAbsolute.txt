@@ -1,0 +1,16 @@
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\bin\Debug\net5.0\Taller_CRUD.exe
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\bin\Debug\net5.0\Taller_CRUD.deps.json
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\bin\Debug\net5.0\Taller_CRUD.runtimeconfig.json
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\bin\Debug\net5.0\Taller_CRUD.runtimeconfig.dev.json
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\bin\Debug\net5.0\Taller_CRUD.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\bin\Debug\net5.0\ref\Taller_CRUD.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\bin\Debug\net5.0\Taller_CRUD.pdb
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\obj\Debug\net5.0\Taller_CRUD.csproj.AssemblyReference.cache
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\obj\Debug\net5.0\Taller_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\obj\Debug\net5.0\Taller_CRUD.AssemblyInfoInputs.cache
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\obj\Debug\net5.0\Taller_CRUD.AssemblyInfo.cs
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\obj\Debug\net5.0\Taller_CRUD.csproj.CoreCompileInputs.cache
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\obj\Debug\net5.0\Taller_CRUD.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\obj\Debug\net5.0\ref\Taller_CRUD.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\obj\Debug\net5.0\Taller_CRUD.pdb
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\POO\Herencia\Taller_CRUD\obj\Debug\net5.0\Taller_CRUD.genruntimeconfig.cache
