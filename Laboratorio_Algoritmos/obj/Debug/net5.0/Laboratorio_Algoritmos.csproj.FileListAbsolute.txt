@@ -1,0 +1,16 @@
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\bin\Debug\net5.0\Laboratorio_Algoritmos.exe
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\bin\Debug\net5.0\Laboratorio_Algoritmos.deps.json
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\bin\Debug\net5.0\Laboratorio_Algoritmos.runtimeconfig.json
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\bin\Debug\net5.0\Laboratorio_Algoritmos.runtimeconfig.dev.json
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\bin\Debug\net5.0\Laboratorio_Algoritmos.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\bin\Debug\net5.0\ref\Laboratorio_Algoritmos.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\bin\Debug\net5.0\Laboratorio_Algoritmos.pdb
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\obj\Debug\net5.0\Laboratorio_Algoritmos.csproj.AssemblyReference.cache
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\obj\Debug\net5.0\Laboratorio_Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\obj\Debug\net5.0\Laboratorio_Algoritmos.AssemblyInfoInputs.cache
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\obj\Debug\net5.0\Laboratorio_Algoritmos.AssemblyInfo.cs
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\obj\Debug\net5.0\Laboratorio_Algoritmos.csproj.CoreCompileInputs.cache
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\obj\Debug\net5.0\Laboratorio_Algoritmos.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\obj\Debug\net5.0\ref\Laboratorio_Algoritmos.dll
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\obj\Debug\net5.0\Laboratorio_Algoritmos.pdb
+D:\Users\USUARIO\Documents\SENA\Daniel\Git Hub\Primer-Repositorio\Laboratorio_Algoritmos\obj\Debug\net5.0\Laboratorio_Algoritmos.genruntimeconfig.cache

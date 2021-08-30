@@ -18,7 +18,7 @@ namespace Taller_CRUD
             int opcion = 0;
             while (opcion != 7)
             {
-                System.Console.WriteLine("1. \n2. \n3. \n4. \n5. \n6. \n7.");
+                System.Console.WriteLine("1.Registrar empleado \n2.Eliminar empleado \n3.Editar empleado \n4.Consultar empleado \n5.Calcular bonificación \n6.Listar empleados \n7.Regresar al menú principal");
 
                 opcion = int.Parse(Console.ReadLine());
                 switch (opcion)
@@ -30,6 +30,10 @@ namespace Taller_CRUD
                     break;
                 }
             }
-        }    
+        } 
+
+        public static void Registrar
+        
+        if (item.Nombre)   
     }
 }
