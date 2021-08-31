@@ -9,7 +9,7 @@ namespace Taller_CRUD
             int opcion = 0;
             while (opcion != 3)
             {
-                System.Console.WriteLine("1.Gestion de Empleados \n2. Gestion de proveedores \n3. Salir");
+                System.Console.WriteLine("1. Gestion de Empleados \n2. Gestion de proveedores \n3. Salir");
                 opcion = int.Parse(Console.ReadLine());
                 switch (opcion)
                 {
@@ -21,6 +21,10 @@ namespace Taller_CRUD
 
                     case 2:
                         Proveedor.menu();
+                        break;
+
+                    case 3:
+                        System.Console.WriteLine("Salir");
                         break;
                 }
             }
