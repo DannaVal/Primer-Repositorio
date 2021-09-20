@@ -48,6 +48,8 @@ namespace Linq
                 new Raza(3, "Pomerania")
             };
 
+            //info
+
             var seleccionPerros = (from sp in perros select sp.Nombre + " " + sp.Raza);
             var seleccionPerros2 = perros.Select(sp => sp.Nombre + " " + sp.Raza);
 
@@ -76,8 +78,17 @@ namespace Linq
             var promedio2 = perros.Average(p => p.Edad);
 
             var grupo = (from p in perros group p by p.Raza);
+
+            var minEdad = (from e in perros select e.Edad).Min();
+            var minEdad2 = perros.Min(e => e.Edad);
+
+            var maxEdad = (from e in perros select e.Edad).Max();
+            var maxEdad2 = perros.Max(e => e.Edad);
+
+            var sumaEdades = (from e in perros select e.Edad).Sum();
+            var sumaEdades2 = perros.Sum(e => e.Edad);
             
-            System.Console.WriteLine(promedio);
+            System.Console.WriteLine(sumaEdades2);
 
             foreach (var item in grupo)
             {
@@ -85,6 +96,57 @@ namespace Linq
                 foreach (var v in item)
                 {
                     System.Console.WriteLine($"{v.Nombre}, {v.Vacunado}");
+                }
+            }
+
+            foreach (var item in seleccionPerros)
+            {
+                System.Console.WriteLine(item);
+            }
+
+            List<Docente> docentes = new List<Docente>()
+            {
+                new Docente("Mario", "Rojas", 3, 3000000, 26),
+                new Docente("Julia", "Montés", 1, 1200000, 32),
+                new Docente("Johana", "Uribe", 2, 2800000, 28),
+                new Docente("Josué", "Cuervo", 1, 3450000, 35),
+                new Docente("Alejandra", "Narvaez", 4, 4100000, 24)
+            };
+
+            List<Curso> cursos = new List<Curso>()
+            {
+                new Curso(1, "Algoritmos"),
+                new Curso(2, "Base de datos"),
+                new Curso(3, "Inglés"),
+                new Curso(4, "Análisis")
+            };
+        
+            var union3 = (from d in docentes join c in cursos on d.Curso equals c.ID select new{d.Nombre, d.Apellidos, c.NombreCurso, d.Salario, d.Edad});
+            var infoDocentes = (from id in docentes select id.Nombre + " " + id.Apellidos + " " + id.Curso + " " + id.Salario + " " + id.Edad);
+
+            System.Console.WriteLine("\n Información");
+            foreach (var item in union3)
+            {
+                System.Console.WriteLine(item);
+            }
+            
+            System.Console.WriteLine("\n Salario mínimo");
+            var minSalario = (from m in docentes select m.Salario).Min();
+            System.Console.WriteLine(minSalario);
+            
+            System.Console.WriteLine("\n Edad máxima");
+            var maxEdadD = (from m in docentes select m.Edad).Max();
+            System.Console.WriteLine(maxEdadD);
+            
+            System.Console.WriteLine("\n Docentes agrupados por curso");
+            var grupoDocentes = (from d in docentes group d by d.Curso);
+
+            foreach (var item in grupoDocentes)
+            {
+                System.Console.WriteLine($"Curso: {item.Key}");
+                foreach (var v in item)
+                {
+                    System.Console.WriteLine($"{v.Nombre} {v.Apellidos}");
                 }
             }
         }
